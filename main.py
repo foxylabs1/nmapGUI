@@ -22,7 +22,7 @@ from panels.history import HistoryPanel
 from panels.log_viewer import LogPanel
 
 APP_NAME = "NmapGUI"
-APP_VERSION = "1.0.1"
+APP_VERSION = "1.0.2"
 
 
 class NmapGUI(tk.Tk):
